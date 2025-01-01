@@ -12,7 +12,7 @@ This guide provides a comprehensive overview of Docker on **Ubuntu**, including 
 ---
 
 ## **Table of Contents**
-1. [Installation](#installation)
+1. # installation
 2. [Core Concepts](#core-concepts)
 3. [Basic Commands](#basic-commands)
 4. [Dockerfile](#dockerfile)
